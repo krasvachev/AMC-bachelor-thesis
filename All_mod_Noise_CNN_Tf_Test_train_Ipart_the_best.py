@@ -1,17 +1,3 @@
-# This is my base code
-# Copyright 2016 The TensorFlow Authors. All Rights Reserved.
-# From here: https://www.tensorflow.org/tutorials/estimators/cnn
-"""Convolutional Neural Network Estimator for MNIST, built with tf.layers."""
-
-
-# This is Tony'code
-#Adapted from
-#https://github.com/
-#aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/
-#convolutional_network_raw.ipynb
-#https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/convolutional_network_raw.ipynb
-
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -519,7 +505,3 @@ if __name__ == "__main__":
 
 print("Optimization Finished!")
 
-#sess.close()
-
-
-#https://stackoverflow.com/questions/49083984/valueerror-can-not-squeeze-dim1-expected-a-dimension-of-1-got-3-for-sparse
